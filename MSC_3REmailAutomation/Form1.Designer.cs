@@ -141,9 +141,9 @@
             this.label3.ForeColor = System.Drawing.SystemColors.Highlight;
             this.label3.Location = new System.Drawing.Point(544, 227);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(266, 26);
+            this.label3.Size = new System.Drawing.Size(263, 26);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Fetching data from GSG...";
+            this.label3.Text = "Fetching data from MASH";
             // 
             // label4
             // 
