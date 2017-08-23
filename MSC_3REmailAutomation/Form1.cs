@@ -285,6 +285,11 @@ namespace MSC_3REmailAutomation
            
             //myWorker.Dispose();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
       
     }
 }
