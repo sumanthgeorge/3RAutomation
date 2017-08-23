@@ -85,7 +85,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(458, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Microsoft Marketing Services - Marketing Service Center";
+            this.label1.Text = "Marketing Services - Marketing Service Center";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // dataGridView1
